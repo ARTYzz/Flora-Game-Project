@@ -120,6 +120,8 @@ screen say(who, what):
 ## Make the namebox available for styling through the Character object.
 init python:
     config.character_id_prefixes.append('namebox')
+    config.screen_width = 1920
+    config.screen_height = 1080
 
 style window is default
 style say_label is default
