@@ -3,7 +3,7 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("Chika")
+define e = Character("Chika & Reira")
 
 
 # The game starts here.
